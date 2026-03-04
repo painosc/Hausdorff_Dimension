@@ -5,7 +5,7 @@ This approach was first developed by R. Nussbaum and R. Falk. As it plays a cruc
 \newline 
 Every irrational number $x$ in the unit interval has a unique representation of the form 
 $
-x = [ a_1, a_2,a_3,  \ldots] = \cfrac{1}{a_1 + \cfrac{1}{a_2+  \frac{1}{a_3 + \ldots}}} ,
+x = [ a_1, a_2,a_3,  \ldots ] = \cfrac{1}{a_1 + \cfrac{1}{a_2+  \frac{1}{a_3 + \ldots}}} ,
 $
 with $a_i \in \N$ for $i \in \mathbb{N}$.
 For example 
