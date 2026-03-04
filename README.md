@@ -2,7 +2,7 @@
 Computing the dimension using positive operator approach. 
 It is well know that the Hausdorff dimension of Continued fractions can be analysed using the Perron-Frobenius Operators and to estimate the Haudorff dimension, one has to find a matrix A_s and B_s such that the operator satisfies $A_sw \leq (L_sv_s)(x_k) \leq B_sw$ and it will then follow that the spectral radius of $L_s$ is between then spectral raidus of matrices $A_s$ and $B_s$.
 This approach was first developed by R. Nussbaum and R. Falk. As it plays a crucial role in my thesis, we implement it in python.
-\newline 
+ 
 Every irrational number $x$ in the unit interval has a unique representation of the form 
 $x = [a_1, a_2,a_3, \dots ]$= $\cfrac{1}{a_1 + \cfrac{1}{a_2+  \frac{1}{a_3 + \ldots}}} $
 with $a_i \in \mathbb{N}$ for $i \in \mathbb{N}$.
